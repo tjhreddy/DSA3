@@ -1,0 +1,3 @@
+This is a smple document.
+It has some erors on this line and anothr one here.
+The final line is compltely fine.
